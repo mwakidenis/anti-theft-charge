@@ -41,7 +41,7 @@ All the logic is in [this directory](app/src/main/java/com/aliciasykes/anti_thef
 
 
 ### Contributing
-If you want to improve something, add a feature or fix a bug, feel free to submit a [pull request](https://github.com/Lissy93/anti-theft-charge/compare), or [raise an issue](https://github.com/Lissy93/anti-theft-charge/issues/new). Thank you!
+If you want to improve something, add a feature or fix a bug, feel free to submit a [pull request](https://github.com/mwakidenis/anti-theft-charge/compare), or [raise an issue](https://github.com/mwakidenis/anti-theft-charge/issues/new). Thank you!
 
 
 ### License
