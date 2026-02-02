@@ -15,8 +15,6 @@
 </p>
 
 
-[![codebeat badge](https://codebeat.co/badges/f920568a-0d1c-444f-ae62-9e06ff23b351)](https://codebeat.co/projects/github-com-lissy93-anti-theft-charge-master)
-
 
 ### Intro
 Ever need to charge your phone in a pubic space, like a train, hostel or airport? Worried that if your eyes leave your device for just a few seconds it could be snatched? ATC is a simple app, that once enabled will sound an alarm at top volume if your device is unplugged when the screen is off /locked. This should be enough to deter the thief and draw your attention.
@@ -53,9 +51,9 @@ This project is open source, feel free to do anything you like with the code.
 ---
 
 <p  align="center">
-  <i>© <a href="https://aliciasykes.com">Alicia Sykes</a> 2014 - 2019</i><br>
+  <i>© 2026</i><br>
   <i>Licensed under <a href="https://gist.github.com/Lissy93/143d2ee01ccc5c052a17">MIT</a></i><br>
-  <a href="https://github.com/lissy93"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a>
+  <a href="https://github.com/mwakidenis"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a>
 </p>
 
 
